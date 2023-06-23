@@ -1,0 +1,19 @@
+OBJETIVO PRINCIPAL:
+-Permitir o usuário jogar "forca" usando uma interface de texto.
+
+REQUISITOS:
+OK-O usuário poderá selecionar um entre 3 níveis de dificuldade.
+
+OK-Selecionar uma palavra aleatoriamentr a partir de um banco de palavras estático.
+
+OK-O tamanho da palavra selecionada varia de acordo com a dificuldade selecionada:
+ OK-fácil: 3-5 caracteres
+ OK-normal: 6-10 caracteres
+ OK-difícil: +10 caracteres
+
+ OK-A quantidade de chances que o usuário terá para adivinhar uma palavra varia de acordo com a dificuldade:
+  OK-fácil: QUANTIDADE BÁSICA +2
+  OK-normal: QUANTIDADE BÁSICA
+  OK-difícil: QUANTIDADE BÁSICA -2
+
+ (Quantidade básica: 2x o tamanho da palavra)
